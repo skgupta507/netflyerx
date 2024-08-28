@@ -63,7 +63,7 @@ const About = () => {
               <h1 className="text-4xl font-bold mb-4">About Netflyer</h1>
               <p className="text-lg text-gray-400">
                 Netflyer is a streaming app that allows you to watch your
-                favorite movies and TV shows without leaving your browser.
+                favorite movies and TV shows for ad-free.
               </p>
             </section>
 

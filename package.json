@@ -46,6 +46,7 @@
     "vercel-toast": "^1.8.0"
   },
   "devDependencies": {
+    "@babel/eslint-parser": "7.11.0",
     "@eslint-kit/eslint-config-base": "^5.0.2",
     "@eslint-kit/eslint-config-patch": "^1.0.0",
     "@eslint-kit/eslint-config-prettier": "^5.0.0",
@@ -53,7 +54,6 @@
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
     "autoprefixer": "^10.4.14",
-    "@babel/eslint-parser": "7.11.0",
     "eslint": "7.32.0",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
